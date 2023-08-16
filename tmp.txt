@@ -1,0 +1,3 @@
+curl -X POST https://8080-alexjaw-distribservices-dbwifxevczp.ws-eu103.gitpod.io:8080 -d '{"record": {"value": "TGV0J3MgR28gIzEK"}}'
+
+curl -X GET https://8080-alexjaw-distribservices-dbwifxevczp.ws-eu103.gitpod.io:8080 -d '{"offset": 0}'
